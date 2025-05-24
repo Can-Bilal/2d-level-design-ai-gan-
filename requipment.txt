@@ -1,0 +1,11 @@
+gan_project/
+├── data/
+│   └── data_loader.py
+├── models/
+│   ├── discriminator.py
+│   └── generator.py
+├── utils/
+│   └── visualize.py
+├── train.py
+├── main.py
+└── requirements.txt
